@@ -1,36 +1,20 @@
-# mealtime magic
+# README generator
 
 ![badge](https://img.shields.io/badge/License-MIT-green)
 
 
 ## Description: 
-meals
 
-1. [Installation Instructions](#install)
-2. [Usage Instructions](#usage)
-3. [How to contribute](#contribute)
-4. [How to test project](#test)
-5. [How to ask questions about project](#questions)
-6. [Github username](#username)
-7. [Email](#email)
+The README.md file generator allows you to make a professional README through the the use of inquirer on node.js
 
-## <a name = "install"></a> Installation Instructions
-idk
 
-## <a name = "usage"></a> Usage Instructions
-a
+1. [Description](#description)
+2. [Video Demo](#Demo)
 
-## <a name = "contribute"></a> How to Contribute
-a
 
-## <a name = "test"></a> How to Test Project
-a
+## Demo
 
-## <a name = "questions"></a> How to ask questions about the project
-a
+[README generator demo](https://www.youtube.com/watch?v=MDCDpg7z80o)
 
-## <a name = "username"></a> github username: 
-a
 
-## <a name = "Email"></a> Email: 
-a
+
